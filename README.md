@@ -1,7 +1,5 @@
 # Habamax
 
-![icon](images/icon.png)
-
 ## Overview
 
 This VS Code theme extension is based on the [habamax.nvim](https://github.com/ntk148v/habamax.nvim) theme, bringing a modern and cool design to your code editor.
