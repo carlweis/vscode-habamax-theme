@@ -1,0 +1,21 @@
+{
+  "name": "habamax-theme",
+  "displayName": "Habamax-theme",
+  "description": "Color scheme based on habamax.nvim",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Habamax",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Habamax-color-theme.json"
+      }
+    ]
+  }
+}
