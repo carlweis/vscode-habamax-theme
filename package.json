@@ -1,6 +1,6 @@
 {
-  "name": "habamax-theme",
-  "displayName": "Habamax-theme",
+  "name": "habamax",
+  "displayName": "Habamax",
   "publisher": "codelogix",
   "description": "Color scheme based on habamax.nvim",
   "repository": {
