@@ -136,19 +136,19 @@
     {
       "scope": ["entity.name.tag"],
       "settings": {
-        "foreground": "#afaf87"
+        "foreground": "#5f8787"
       }
     },
     {
       "scope": ["meta.tag"],
       "settings": {
-        "foreground": "#afaf87"
+        "foreground": "#87afaf"
       }
     },
     {
       "scope": ["punctuation.definition.tag"],
       "settings": {
-        "foreground": "#afaf87"
+        "foreground": "#5f8787"
       }
     },
     {
