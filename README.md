@@ -1,16 +1,31 @@
-# habamax-theme README
+# Habamax
 
-## Working with Markdown
+![icon](images/icon.png)
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Overview
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+This VS Code theme extension is based on the [habamax.nvim](https://github.com/ntk148v/habamax.nvim) theme, bringing a modern and cool design to your code editor.
 
-## For more information
+## Features
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+- Dark background with green and purple code highlighting
+- Sleek and modern icon design
 
-**Enjoy!**
+## Installation
+
+1. Download and install the extension from the Visual Studio Code marketplace.
+2. Go to the `Extensions` view by clicking the Extensions icon in the Sidebar.
+3. Search for `Your Extension Name`.
+4. Click `Install`.
+
+## Screenshot
+
+![screenshot](images/screenshot.png)
+
+## Credits
+
+- Theme based on [habamax.nvim](https://github.com/ntk148v/habamax.nvim) by ntk148v
+
+## License
+
+This extension is licensed under the MIT License.
